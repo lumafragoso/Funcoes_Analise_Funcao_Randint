@@ -11,7 +11,7 @@ So, make a program that asks the user for a range of values ​​and how many r
 Na questão do jogo da advinhação usamos a função randint que escolhe aleatoriamente um determinado número inteiro dentro de um intervalo informado como parâmetro. Vimos que é possível um número ser escolhido diversas vezes seguidas, como se a escolha estivesse "viciada". Para analisar se há vício ou não nesta função randint, devemos considerar uma quantidade relativamenet alta de escolhas dos números e contar quantas vezes cada número foi escolhido. Esta contagem por número escolhido (repetição) devem ser próximas umas das outras.
 Assim, faça um programa que pede ao usuário um intervalo de valores e quantas escolhas aleatórias de números deste intervalo deseja fazer, dando como saída a quantidade em que cada número do intervalo foi escolhido.
 
-1. Exemple / Exemplo
+1. Example / Exemplo
 ```py
 
 Inteiro inicial do intervalo? 0
